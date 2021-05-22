@@ -1,0 +1,38 @@
+/* cascada 
+/* .titulo{
+   color: red;
+   color:royalblue    
+}
+*/
+#title{
+    color: green;
+} */
+
+/* herencia 
+body{
+    font-size: 3em;
+    color: indigo;
+}
+*/
+
+/* especificidad 
+/* etiqueta 1 h1 */
+/* clase 10 .titulo*/
+/* identificadores 100 #title */
+/* estilos en linea 1000  */
+*/
+h1{
+    color: red;
+}
+
+.titulo{
+    color:  blue;
+}
+
+#title{
+    color: magenta;
+}
+
+h1 .titulo{
+    color:peru
+}
