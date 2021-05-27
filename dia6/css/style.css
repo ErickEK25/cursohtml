@@ -1,0 +1,77 @@
+ul li{
+    list-style: none;
+    display: inline- inline;
+}
+
+.izquierda, .derecha{
+    display: inline;
+    width: 40%;
+
+}
+
+
+
+/* html, body{
+    width:
+}
+
+.borde{
+border-top: 1px solid red;
+border-right: 1px solid red; 
+border-bottom: ;: 1px solid red; 
+border-left: 1px solid red;
+
+
+border: 5px solid green;
+
+padding: 30px;
+
+}
+
+
+body{
+    /* background-image: url(https://picsum.photos/200/300); */
+/*     background-image: url(../img/237-536x354.jpg);
+    color: blanchedalmond;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; */ */
+
+
+}
+/* 
+body{
+    background: url(../img/237-536x354.jpg) center center / 90% no-repeat;
+background whitesmoke;
+box-sizing: border-box;
+
+}
+
+ul li{
+    list-style: none;
+}
+/* .izquierda{
+    color: brown
+    border: orange 2px
+}
+
+a{
+    color: currentColor;
+}
+.borde{
+    border: orangered 1px;
+}
+.izquierda{
+    display: inline
+
+}
+
+.prueba2, .prueba3{
+
+display: inline block;
+width: 30%;
+
+} */ */
+
+
+

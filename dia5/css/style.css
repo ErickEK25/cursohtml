@@ -1,0 +1,25 @@
+/* 
+.container{
+background: aquamarine;
+}
+
+p{
+font-weight: bold;    
+}
+
+.firts p{
+    text-transform: uppercase;
+}
+
+.container > h2{
+    color: red;
+}
+
+.row{
+    background: royalblue;
+}
+
+.row.second{
+    color: white;
+}
+ */
